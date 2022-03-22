@@ -1,4 +1,4 @@
-# Console Logs
+# Console Logs 🎮
 Developed by [Ali Ali](https://github.com/alibeniaminali), [Thor Refoy](https://github.com/thor-r) & [Peter Bid](https://github.com/PeterBid)
 
 ## Overview 
