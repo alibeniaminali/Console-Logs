@@ -30,7 +30,7 @@
 
 ## Concept
 A full-stack desktop application developed during my last week at the General Assembly Software Engineering Course.
-Console Logs is a social media platform, where people can share and upload video clips of gaming footage related to specific games, and allows other users to comment on them.
+Console Logs is a social media platform, where people can share and upload video clips of gaming footage related to specific games, and allows other users to comment on them. It was my first experience using technologies such as Python, PostgreSQL and Django.
 
 ## Timeline
 - 7 days
