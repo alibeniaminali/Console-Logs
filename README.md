@@ -149,7 +149,7 @@ Console Logs is a social media platform, where people can share and upload video
 [Back to the top ⬆️](#idtext)
 
 ## Unsolved Problems
-- ![App Screenshot](https://img.shields.io/badge/-NOT%20DEPLOYED-red)
+<!--- - ![App Screenshot](https://img.shields.io/badge/-NOT%20DEPLOYED-red)--->
 - We didn't have enough time to style the user's Profile page
 - We also couldn’t format the timestamp to show the upload day properly
 - We tried to display the 5 most viewed videos ,but the function didn’t work properly as every time we refresh the page, new videos appeared
